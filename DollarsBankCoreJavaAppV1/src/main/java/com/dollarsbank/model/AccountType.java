@@ -1,4 +1,4 @@
-package com.dollarsbank.model;
+ package com.dollarsbank.model;
 
 public enum AccountType {
 
